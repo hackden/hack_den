@@ -1,1 +1,1 @@
-We believe in learning programming the fun way. Pranks, 'viruses', etc.
+We believe in learning programming by fun way. We provide prank codes, 'viruses', etc.
