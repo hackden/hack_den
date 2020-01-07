@@ -1,0 +1,7 @@
+import webbrowser   # inbuilt module
+
+while True:     # forever loop
+    website = "xyz.com"
+    webbrowser.open_new(website)
+   
+       
